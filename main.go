@@ -7,5 +7,5 @@ func main() {
 	fmt.Println("Hello World")
 	fmt.Println("Hello Ali")
 	fmt.Println("Hello Umida")
-	
+	fmt.Println("Today is a good day")
 }
